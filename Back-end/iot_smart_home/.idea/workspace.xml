@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="daaa01d5-e111-4e46-8c14-24ddb05d6938" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="21dmFPpmnMLc4neufaAObaj71B8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="iot_smart_home" type="Python.DjangoServer" factoryName="Django server">
+      <module name="iot_smart_home" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="daaa01d5-e111-4e46-8c14-24ddb05d6938" name="Default Changelist" comment="" />
+      <created>1638279233992</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638279233992</updated>
+      <workItem from="1638279239892" duration="1579000" />
+      <workItem from="1638365340892" duration="9145000" />
+      <workItem from="1638712105454" duration="9356000" />
+      <workItem from="1638778274063" duration="2906000" />
+      <workItem from="1638812264632" duration="595000" />
+      <workItem from="1638929011432" duration="2729000" />
+      <workItem from="1638940020809" duration="7189000" />
+      <workItem from="1639160698435" duration="1844000" />
+      <workItem from="1639232718854" duration="626000" />
+      <workItem from="1639832114244" duration="6740000" />
+      <workItem from="1640292188383" duration="6233000" />
+      <workItem from="1640706936108" duration="3127000" />
+      <workItem from="1641262291711" duration="7003000" />
+      <workItem from="1641367449134" duration="1449000" />
+      <workItem from="1641414307902" duration="672000" />
+      <workItem from="1641563179391" duration="13000" />
+      <workItem from="1641563419826" duration="52000" />
+      <workItem from="1641624607015" duration="4651000" />
+      <workItem from="1641710246546" duration="596000" />
+      <workItem from="1641794668303" duration="1321000" />
+      <workItem from="1641797544952" duration="801000" />
+      <workItem from="1642520656181" duration="2255000" />
+      <workItem from="1642927411269" duration="13309000" />
+      <workItem from="1643022365041" duration="9306000" />
+      <workItem from="1643111376787" duration="4565000" />
+      <workItem from="1643202513954" duration="2756000" />
+      <workItem from="1643279903161" duration="3546000" />
+      <workItem from="1643458433432" duration="93000" />
+      <workItem from="1643549447377" duration="2489000" />
+      <workItem from="1643562104320" duration="3229000" />
+      <workItem from="1643572339933" duration="780000" />
+      <workItem from="1643884655011" duration="1948000" />
+      <workItem from="1643975127110" duration="58000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
